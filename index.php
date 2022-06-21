@@ -6,7 +6,7 @@ echo "hi";
 
 echo "hi1";
 
-echi "hi2";
+echo "hi2";
 
 
 ?>
