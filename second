@@ -1,6 +1,6 @@
 <?php
 
 
-echo " is second file";
+echo "123 is second file";
 
 ?>
